@@ -1,0 +1,9 @@
+google-api-python-client --trusted-host pypi.org --trusted-host files.pythonhosted.org
+google-auth-httplib2
+google-auth-oauthlib
+PyPDF2
+pytesseract
+Pillow
+elasticsearch
+Flask
+requests
